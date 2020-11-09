@@ -1,5 +1,3 @@
-# didcomm
-
 # DIF DIDcomm Working Group
 
 Members of the Working Group are engaged in contributing to specs that embody a method for secure, private and authenticated message-based communication, where trust is rooted in DIDs and used over a wide variety of transports.
