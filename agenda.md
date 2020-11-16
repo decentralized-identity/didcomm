@@ -45,7 +45,7 @@ redecentralize.org
 
 </details>
 
-## Meeting - 09 Nov 2020 - (1500 ET)
+## Meeting - 16 Nov 2020 - (1500 ET)
  
 ### Agenda
 
@@ -57,16 +57,15 @@ redecentralize.org
     - Repo exists 
     - https://github.com/decentralized-identity/didcomm.org
 - Github/Hackmd agenda and notes?
-    - Yes. :)
-    - Has not happened yet.
+    - Done!
 - https://github.com/w3c/did-use-cases/pull/100
-- Mime Types
-    - [PR 124](https://github.com/decentralized-identity/didcomm-messaging/pull/124)
-    - [Strategy Sheet](https://docs.google.com/spreadsheets/d/1VZz8J2Uz4nab-SY4pvhKd1_eipoEo9kGiqU5iaMYVsY/edit#gid=0)
-
+- DIDComm for binary protocols (gRPC) - Tomislav
+    - https://github.com/trinsic-id/didcomm-extension-grpc
 - PR/Issues:
-    - Pick an issue you think can be closed
-    - Pick an issue that shouldn’t be, and comment on what is needed next on the issue.
+    - [117](https://github.com/decentralized-identity/didcomm-messaging/pull/117) - forward secrecy
+    - [124](https://github.com/decentralized-identity/didcomm-messaging/pull/124) - mime types
+    - [127](https://github.com/decentralized-identity/didcomm-messaging/pull/127) - structured headers
+    - 
 
 
 ### Proposals
@@ -74,3 +73,6 @@ redecentralize.org
 
 ### Attendees
 -attendees here-
+
+## Prior Meeting Agendas
+Prior meeting agendas were recorded in [this Google Doc](https://docs.google.com/document/d/1BpTm5SmgfOJcEsXfizO0ZmH1r7imTJDGKudAZtYsm0M/edit#).
