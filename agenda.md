@@ -59,9 +59,10 @@ redecentralize.org
 - Github/Hackmd agenda and notes?
     - Done!
 - https://github.com/w3c/did-use-cases/pull/100
+    - Needs New PR.
 - DIDComm for binary protocols (gRPC) - Tomislav
     - https://github.com/trinsic-id/didcomm-extension-grpc
-- PR/Issues:
+- PR/Issues: (not discussed, will happen online and next week as appropriate.)
     - [117](https://github.com/decentralized-identity/didcomm-messaging/pull/117) - forward secrecy
     - [124](https://github.com/decentralized-identity/didcomm-messaging/pull/124) - mime types
     - [127](https://github.com/decentralized-identity/didcomm-messaging/pull/127) - structured headers
@@ -72,7 +73,13 @@ redecentralize.org
 -proposals here-
 
 ### Attendees
--attendees here-
+- [George Aristy](https://github.com/llorllale) (SecureKey) <george.aristy@securekey.com>
+- [Oliver Terbu](https://github.com/awoie) (ConsenSys AG) <oliver.terbu@mesh.xyz>
+- [Daniel Hardman](daniel.hardman@evernym.com)
+- [Ivan Temchenko](ivan@jolocom.com)
+- [Stephen Curran](swcurran@cloudcompass.ca) Cloud Compass Computing Inc.
+- [Steve McCown] (smccown@anonyome.com) Anonyome Labs
+
 
 ## Prior Meeting Agendas
 Prior meeting agendas were recorded in [this Google Doc](https://docs.google.com/document/d/1BpTm5SmgfOJcEsXfizO0ZmH1r7imTJDGKudAZtYsm0M/edit#).
