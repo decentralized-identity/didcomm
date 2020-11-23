@@ -55,6 +55,38 @@ redecentralize.org
     - Next Complete Draft - Eliminate all TODOs
 - DIDComm.org Progress
     - Repo exists 
+   https://github.com/decentralized-identity/didcomm.org
+   - First content is present.
+   - domain config?
+
+- https://github.com/w3c/did-use-cases/pull/100
+    - Needs New PR.
+    - Progress?
+- PR/Issues: 
+    - [117](https://github.com/decentralized-identity/didcomm-messaging/pull/117) - forward secrecy
+    - [124](https://github.com/decentralized-identity/didcomm-messaging/pull/124) - mime types
+    - [127](https://github.com/decentralized-identity/didcomm-messaging/pull/127) - structured headers
+    - [128](https://github.com/decentralized-identity/didcomm-messaging/pull/128) - to header semantics
+    - [129](https://github.com/decentralized-identity/didcomm-messaging/pull/129) - post quantum
+    - [126](https://github.com/decentralized-identity/didcomm-messaging/issues/126) - DIDDocs for Peer DIDs
+
+### Proposals
+-proposals here-
+
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+
+
+## Meeting - 16 Nov 2020 - (1500 ET)
+ 
+### Agenda
+
+- Welcome / Introductions
+- Milestones
+    - First Complete Draft - reads correctly from beginning to end Nov 30th.
+    - Next Complete Draft - Eliminate all TODOs
+- DIDComm.org Progress
+    - Repo exists 
     - https://github.com/decentralized-identity/didcomm.org
 - Github/Hackmd agenda and notes?
     - Done!
@@ -78,7 +110,8 @@ redecentralize.org
 - [Daniel Hardman](daniel.hardman@evernym.com)
 - [Ivan Temchenko](ivan@jolocom.com)
 - [Stephen Curran](swcurran@cloudcompass.ca) Cloud Compass Computing Inc.
-- [Steve McCown] (smccown@anonyome.com) Anonyome Labs
+- [Steve McCown](https://github.com/mccown) (Anonyome Labs) <smccown@anonyome.com>
+- [Sam Curren](telegramsam@gmail.com) ()
 
 
 ## Prior Meeting Agendas
