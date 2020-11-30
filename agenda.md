@@ -45,7 +45,44 @@ redecentralize.org
 
 </details>
 
-## Meeting - 16 Nov 2020 - (1500 ET)
+## Meeting - 30 Nov 2020 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+ 
+### Agenda
+
+- Welcome / Introductions
+- Milestones
+    - First Complete Draft - reads correctly from beginning to end Nov 30th.
+    - Next Complete Draft - Eliminate all TODOs
+- DIDComm.org Progress
+    - Repo exists 
+   https://github.com/decentralized-identity/didcomm.org
+   - First content is present.
+   - domain config?
+
+- DID Use Cases
+    - Original: https://github.com/w3c/did-use-cases/pull/100
+    - Nader: https://github.com/w3c/did-use-cases/pull/122
+    - Needs New PR.
+    - Progress?
+- PR/Issues: 
+    - [127](https://github.com/decentralized-identity/didcomm-messaging/pull/127) - structured headers
+    - [128](https://github.com/decentralized-identity/didcomm-messaging/pull/128) - to header semantics
+    - [129](https://github.com/decentralized-identity/didcomm-messaging/pull/129) - post quantum
+    - [126](https://github.com/decentralized-identity/didcomm-messaging/issues/126) - DIDDocs for Peer DIDs
+
+- DIDComm Bootstrapping and Discovery Technique
+    - [Social Profile Association Credential](https://hackmd.io/IZgDPFy6QiaZXbUk7Ik87Q?view)
+
+### Proposals
+-proposals here-
+
+
+
+
+## Meeting - 23 Nov 2020 - (1500 ET)
  
 ### Agenda
 
@@ -70,11 +107,17 @@ redecentralize.org
     - [129](https://github.com/decentralized-identity/didcomm-messaging/pull/129) - post quantum
     - [126](https://github.com/decentralized-identity/didcomm-messaging/issues/126) - DIDDocs for Peer DIDs
 
+- DIDComm Bootstrapping and Discovery Technique
+    - [Social Profile Association Credential](https://hackmd.io/IZgDPFy6QiaZXbUk7Ik87Q?view)
+
 ### Proposals
 -proposals here-
 
 ### Attendees
 - [Sam Curren](telegramsam@gmail.com) ()
+- [George Aristy](george.aristy@securekey.com) (SecureKey)
+- [Ivan Temchenko](ivan@jolocom.com)(Jolocom)
+- [Drummond Reed](drummond.reed@evernym.com) (Evernym)
 
 
 ## Meeting - 16 Nov 2020 - (1500 ET)
@@ -112,6 +155,7 @@ redecentralize.org
 - [Stephen Curran](swcurran@cloudcompass.ca) Cloud Compass Computing Inc.
 - [Steve McCown](https://github.com/mccown) (Anonyome Labs) <smccown@anonyome.com>
 - [Sam Curren](telegramsam@gmail.com) ()
+- [Tobias Looker](tobias.looker@mattr.global)
 
 
 ## Prior Meeting Agendas
