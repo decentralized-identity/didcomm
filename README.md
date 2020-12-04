@@ -14,6 +14,7 @@ Members of the Working Group are engaged in contributing to specs that embody a 
 - [Operating Addendum](https://github.com/decentralized-identity/org/blob/master/Org%20documents/WG%20documents/DIF_DIDcomm_WG_Operating_Addendum_v1.pdf)
 - [Mailing list](https://lists.identity.foundation/g/didcomm-wg)
 - [Meeting page](https://github.com/decentralized-identity/didcomm/blob/main/agenda.md)
+- [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=429611178)
 - [Slack channel](https://difdn.slack.com/archives/CRMKSUE8M) *for DIF members only*
 - [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=dHVmZWYxaXBzY2ZnaWk1MGhqN2NsdjYxc21fMjAyMDExMDlUMjAwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
 - [Zoom room](https://us02web.zoom.us/j/81621403519?pwd=TXJqMWcvYjlQcjhJVzJ0b2FpSGU2UT09), Meeting ID: 816 2140 3519, Password: 049153
