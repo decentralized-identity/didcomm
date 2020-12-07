@@ -4,7 +4,7 @@
 
 
 
-[**WG projects** ](https://github.com/decentralized-identity?q=wg-didcomm&type=&language=) | [ DIF page ](https://identity.foundation/working-groups/did-comm.html) | [Mailing list](https://lists.identity.foundation/g/didcomm-wg) | [**Old Meeting page**](https://docs.google.com/document/d/1BpTm5SmgfOJcEsXfizO0ZmH1r7imTJDGKudAZtYsm0M/edit) | [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=429611178)
+[**WG projects** ](https://github.com/decentralized-identity?q=wg-didcomm&type=&language=) | [ DIF page ](https://identity.foundation/working-groups/did-comm.html) | [Mailing list](https://lists.identity.foundation/g/didcomm-wg) | [**Old Meeting page**](https://docs.google.com/document/d/1BpTm5SmgfOJcEsXfizO0ZmH1r7imTJDGKudAZtYsm0M/edit)
 
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large, disparate group experiencing a lot of churn._
 
@@ -42,13 +42,66 @@ redecentralize.org
     * Detached JWE payloads to optimize multi-layer messages. - avoid for now?
 
 
-
 </details>
+
+## Meeting - 07 Dec 2020 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Tobias Looker](tobias.looker@mattr.global) ()
+- [Oliver Terbu](oliver.terbu@mesh.xyz) ()
+- [Stephen Curran](swcurran@cloudcompass.ca) Cloud Compass Computing Inc.
+- [Timo Glastra](timo@animo.id) (Animo Solutions)
+- [Steve McCown](smccown@anonyome.com) Anonyome Labs
+- [Drummond Reed](drummond.reed@evernym.com) Evernym
+- [Nader Helmy](nader.helmy@mattr.global) (MATTR)
+ 
+### Agenda
+
+- Welcome / Introductions
+- Milestones
+    - First Complete Draft - reads correctly from beginning to end Nov 30th.
+    - Next Complete Draft - Eliminate all TODOs
+- DIDComm.org Progress
+    - Repo exists 
+   https://github.com/decentralized-identity/didcomm.org
+   - First content is present.
+   - domain config? - done!
+   - https://didcomm.org / https://www.didcomm.org (http redirects)
+   - Next Steps
+
+- DID Use Cases
+    - Original: https://github.com/w3c/did-use-cases/pull/100
+    - Nader: https://github.com/w3c/did-use-cases/pull/122
+        - Preview: https://pr-preview.s3.amazonaws.com/creatornader/did-use-cases/pull/122.html#messaging
+    - Needs New PR.
+    - Expansion of messaging into protocols?
+- PR/Issues: 
+    - [128](https://github.com/decentralized-identity/didcomm-messaging/pull/128) - to header semantics
+    - [131](https://github.com/decentralized-identity/didcomm-messaging/pull/131) - from/to DID Query Parameters
+- Bluetooth Transport
+    - status/questions
+    - https://hackmd.io/@animo/didcomm-bluetooth-transport
+
+
+
+### Proposals
+-proposals here-
+
 
 ## Meeting - 30 Nov 2020 - (1500 ET)
  
 ### Attendees
 - [Sam Curren](telegramsam@gmail.com) ()
+- [George Aristy](george.aristy@securekey.com) (SecureKey)
+- [Ivan Temchenko](ivan@jolocom.com)(Jolocom)
+- [Steve McCown](smccown@anonyome.com) (Anonyome Labs)
+- [Stephen Curran](swcurran@cloudcompass.ca) (Cloud Compass Computing Inc.)
+- [Tobias Looker](tobias.looker@mattr.global)(Mattr)
+- [Nader Helmy](nader.helmy@mattr.global) (Mattr)
+- [Drummond Reed](drummond.reed@evernym.com) (Evernym)
+- [Timo Glastra](timo@animo.id) (Animo Solutions)
+- [Juan Caballero](twitter.com/by_caballero) (DIF/LearningProof)
  
 ### Agenda
 
@@ -65,6 +118,7 @@ redecentralize.org
 - DID Use Cases
     - Original: https://github.com/w3c/did-use-cases/pull/100
     - Nader: https://github.com/w3c/did-use-cases/pull/122
+        - Preview: https://pr-preview.s3.amazonaws.com/creatornader/did-use-cases/pull/122.html#messaging
     - Needs New PR.
     - Progress?
 - PR/Issues: 
@@ -75,6 +129,9 @@ redecentralize.org
 
 - DIDComm Bootstrapping and Discovery Technique
     - [Social Profile Association Credential](https://hackmd.io/IZgDPFy6QiaZXbUk7Ik87Q?view)
+- Rebase: 
+    -https://www.w3.org/community/blog/2020/11/19/proposed-group-rebase-community-group/
+
 
 ### Proposals
 -proposals here-
