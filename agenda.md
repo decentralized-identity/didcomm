@@ -44,6 +44,58 @@ redecentralize.org
 
 </details>
 
+## Meeting - 14 Dec 2020 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [George Aristy](george.aristy@securekey.com) (SecureKey)
+- [Timo Glastra](timo@animo.id) (Animo Solutions)
+- [Oliver Terbu](oliver.terbu@mesh.xyz) (ConsenSys)
+- [Tobias Looker](tobias.looker@mattr.global)(Mattr)
+- [Steve McCown](smccown@anonyome.com) (Anonyome Labs)
+- [Nader Helmy](nader.helmy@mattr.global) (MATTR)
+- [Tomslav Markovski](tomislav@trinsic.id) (Trinsic)
+- [Troy Ronda](troy.ronda@securekey.com) (SecureKey)
+ 
+### Agenda
+
+- Welcome / Introductions
+- Meetings through holidays:
+    - 21st, 28th
+- Milestones
+    - First Complete Draft - reads correctly from beginning to end Nov 30th.
+    - Next Complete Draft - Eliminate all TODOs
+
+
+- DID Use Cases
+    - Original: https://github.com/w3c/did-use-cases/pull/100
+    - Nader: https://github.com/w3c/did-use-cases/pull/122
+        - Preview: https://pr-preview.s3.amazonaws.com/creatornader/did-use-cases/pull/122.html#messaging
+    - Phil Archer: https://github.com/w3c/did-use-cases/pull/126
+        - Preview: https://pr-preview.s3.amazonaws.com/creatornader/did-use-cases/pull/126.html#messaging
+- PR/Issues: 
+    - [128](https://github.com/decentralized-identity/didcomm-messaging/pull/128) - to header semantics
+- Support DID Methods without endpoint support
+    - Strategy: Rotate to something that does
+    - Strategy: Allow indication of endpoint information in a message.
+        - Endpoint, routing
+        - `reply_url`
+        - `reply_to` does not indicate routing. Perhaps `reply_routing` = []?
+        - Requires message from DID owner first.
+    - Scope: message, conversation, everything?
+        - Not all messages will be replies
+    - use cases:
+        - existing relationship use local connetion like bluetooth. Does the DID Doc need to be updated? Reply info could be used to manage using a temporary local connection.
+        - DID method that doesn't support an endpoint, or won't for legal reasons.
+        - modify mediation path dynamically
+    - Carrying Cost
+        - maintaining temporary state
+        - increased comlexity of sending message
+        - different replication of service block in reply headers
+
+
+
+
 ## Meeting - 07 Dec 2020 - (1500 ET)
  
 ### Attendees
