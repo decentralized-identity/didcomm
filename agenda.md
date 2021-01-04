@@ -44,6 +44,72 @@ redecentralize.org
 
 </details>
 
+## Meeting - 04 Jan 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+
+### Agenda
+
+- Welcome / Introductions
+- Milestones
+    - First Complete Draft - reads correctly from beginning to end Nov 30th.
+    - Next Complete Draft - Eliminate all TODOs
+- Bluetooth Discussion
+    - Jan 6, 6pm CET
+    - Will announce on channel
+
+- DID Use Cases
+    - Original: https://github.com/w3c/did-use-cases/pull/100
+    - PR: https://github.com/w3c/did-use-cases/pull/126
+        - Preview: https://pr-preview.s3.amazonaws.com/creatornader/did-use-cases/pull/126.html#messaging
+- PR/Issues: 
+    - [140](https://github.com/decentralized-identity/didcomm-messaging/pull/140) - Anonymous From
+    - [141](https://github.com/decentralized-identity/didcomm-messaging/pull/141) - expires_time semantics
+
+- Discussion Topics
+    - ACK - inclusion and status.
+    - [139](https://github.com/decentralized-identity/didcomm-messaging/pull/139) - Proposed Reply Header Text
+
+
+
+
+
+
+
+
+
+
+## Meeting - 21 Dec 2020 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Oliver Terbu](oliver.terbu@mesh.xyz) (ConsenSys AG)
+- [Steve McCown](smccown@anonyome.com) (Anonyome Labs)
+
+### Agenda
+
+- Welcome / Introductions
+- Meetings through holidays:
+    - 21st, 28th
+- Milestones
+    - First Complete Draft - reads correctly from beginning to end Nov 30th.
+    - Next Complete Draft - Eliminate all TODOs
+
+
+- DID Use Cases
+    - Original: https://github.com/w3c/did-use-cases/pull/100
+    - Nader: https://github.com/w3c/did-use-cases/pull/122
+        - Preview: https://pr-preview.s3.amazonaws.com/creatornader/did-use-cases/pull/122.html#messaging
+    - Phil Archer: https://github.com/w3c/did-use-cases/pull/126
+        - Preview: https://pr-preview.s3.amazonaws.com/creatornader/did-use-cases/pull/126.html#messaging
+- PR/Issues: 
+    - [134](https://github.com/decentralized-identity/didcomm-messaging/issues/134) - `reply_*` headers and the support of DIDs without endpoints
+    - [135](https://github.com/decentralized-identity/didcomm-messaging/issues/135) - Size (byte length) Specification for DIDComm Messages
+- Interop Testing?
+- Ack? as part of V2 
+- Daniel Issues
+
 ## Meeting - 14 Dec 2020 - (1500 ET)
  
 ### Attendees
