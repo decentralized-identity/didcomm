@@ -44,10 +44,30 @@ redecentralize.org
 
 </details>
 
+## Meeting - 11 Jan 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Oliver Terbu](oliver.terbu@mesh.xyz)
+
+### Agenda
+
+- Welcome / Introductions
+- Milestones
+    - TBD
+- Bluetooth Discussion
+    - TBD
+- DID Use Cases
+    - TBD
+- Discussion Topics
+    - DIF F2F Demo sessions
+    - Jolocom DIDComm Demo (Ivan)
+
 ## Meeting - 04 Jan 2021 - (1500 ET)
  
 ### Attendees
 - [Sam Curren](telegramsam@gmail.com) ()
+- [Oliver Terbu](oliver.terbu@mesh.xyz)
 
 ### Agenda
 
