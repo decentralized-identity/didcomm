@@ -44,24 +44,82 @@ redecentralize.org
 
 </details>
 
+## Meeting - 25 Jan 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- DIF F2F
+
+- DID Use Cases
+    - https://github.com/w3c/did-use-cases/pull/126
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/140
+- Discussion Topics
+    - Localization 
+        -   https://hackmd.io/Bcomd6hqTVOVh7oWjlo6kQ
+    - Attachments 
+        - https://hackmd.io/zPQHVHtpTiShXG64TYHyiQ
+
+
+## Meeting - 18 Jan 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+
+
+### Agenda
+
+- Welcome / Introductions
+    - DIF F2F Tommorrow!
+    - https://docs.google.com/spreadsheets/d/1hVnwrnU7QOp_rA7AcK2NTQkflSAg0zvQ3-We2DqyRpk/edit#gid=445783158
+
+
+- Bluetooth Updates
+- F2F WG Update
+    - https://docs.google.com/presentation/d/1YiL-A9YaNgQpFBraJJOLLUPyFfZ6uQ1uqtTCiDZxNqI/edit?usp=sharing
+- DID Use Cases
+    - https://github.com/w3c/did-use-cases/pull/126
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/141
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/140
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/150
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/151
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/153
+- Discussion Topics
+    - DIDCom V2 Library - Rust
+
 ## Meeting - 11 Jan 2021 - (1500 ET)
  
 ### Attendees
 - [Sam Curren](telegramsam@gmail.com) ()
 - [Oliver Terbu](oliver.terbu@mesh.xyz)
+- [George Aristy](george.aristy@securekey.com) (SecureKey)
+- [Ivan Temchenko](ivan@jolocom.com) (Jolocom)
+- [Steve McCown](smccown@anonyome.com) (Anonyome Labs)
+- [Troy Ronda](troy.ronda@securekey.com) (SecureKey)
 
 ### Agenda
 
 - Welcome / Introductions
-- Milestones
-    - TBD
-- Bluetooth Discussion
-    - TBD
-- DID Use Cases
-    - TBD
-- Discussion Topics
-    - DIF F2F Demo sessions
+- Demo
     - Jolocom DIDComm Demo (Ivan)
+- Bluetooth Discussion
+- DID Use Cases
+    - https://github.com/w3c/did-use-cases/pull/126
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/141
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/140
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/150
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/151
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/153
+- Discussion Topics
+    - DIF F2F
 
 ## Meeting - 04 Jan 2021 - (1500 ET)
  
