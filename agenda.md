@@ -44,7 +44,7 @@ redecentralize.org
 
 </details>
 
-## Meeting - 25 Jan 2021 - (1500 ET)
+## Meeting - 15 Feb 2021 - (1500 ET)
  
 ### Attendees
 - [Sam Curren](telegramsam@gmail.com) ()
@@ -54,18 +54,107 @@ redecentralize.org
 
 - Welcome / Introductions
 
-- DIF F2F
+- PRs
+    - [157](https://github.com/decentralized-identity/didcomm-messaging/pull/157) - JSON-LD Context
+    - [160](https://github.com/decentralized-identity/didcomm-messaging/pull/160) - Remove old queue reference/TODOs
+- Issues
+    - [162](https://github.com/decentralized-identity/didcomm-messaging/issues/162) - Rewrapping forwarded messages.
+    - [159](https://github.com/decentralized-identity/didcomm-messaging/issues/159) - Which keys are used for encryption.
+- Discussion Topics
+    - Peer DID Method 2: https://github.com/decentralized-identity/peer-did-method-spec/pull/26
+
+Recording: https://us02web.zoom.us/rec/share/H6tr8FGm8P_NU87tZBDZPDiUWBlTD8WSzUQ5tCMS8Mc4MIPS_KcUsORlXEM6U-i9.xoP19_0UgU5vGVBE
+
+## Meeting - 08 Feb 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- Troy Ronda (SecureKey)
+- [Oliver Terbu](oliver.terbu@mesh.xyz)
+- [Steve McCown](smccown@anonyome.com) Anonyome Labs
+
+### Agenda
+
+- Welcome / Introductions
 
 - DID Use Cases
-    - https://github.com/w3c/did-use-cases/pull/126
+    - Merged!
+    - https://w3c.github.io/did-use-cases/#messaging
 - PRs
-    - https://github.com/decentralized-identity/didcomm-messaging/pull/140
+    - [157](https://github.com/decentralized-identity/didcomm-messaging/pull/157) - JSON-LD Context
+    - [160](https://github.com/decentralized-identity/didcomm-messaging/pull/160) - Remove old queue reference/TODOs
+- Issues
+    - [159](https://github.com/decentralized-identity/didcomm-messaging/issues/159) - Which keys are used for encryption.
+- Discussion Topics
+    - https://github.com/w3c/did-core/issues/599
+
+Recording: https://us02web.zoom.us/rec/share/cqnWgNI8NweatY1vGGx3vb4MjujVuIuaz8OxVpMlQLY89aW1UbZtiHer7x0Fig47.aGWlrp24UnZ7sTx0
+
+## Meeting - 01 Feb 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [George Aristy](george.aristy@securekey.com) (SecureKey)
+- [Oliver Terbu](oliver.terbu@mesh.xyz) (ConsenSys Mesh)
+- [Balazs Nemethi](balazs@identity.foundation) (DIF)
+- [Steve McCown](smccown@anonyome.com) (Anonyome Labs)
+- [Nader Helmy](nader.helmy@mattr.global) (MATTR)
+
+### Agenda
+
+- Welcome / Introductions
+- DID Registry DIDComm service type
+    - https://difdn.slack.com/archives/CRMKSUE8M/p1611678442008000
+    - https://identity.foundation/didcomm-messaging/spec/#did-document-service-endpoint
+- DID Use Cases
+    - Extended discussion: https://github.com/w3c/did-use-cases/pull/126
+    - New PR: https://github.com/w3c/did-use-cases/pull/139
+    - New PR Preview: https://pr-preview.s3.amazonaws.com/w3c/did-use-cases/pull/139.html#messaging
+- PRs
+    - 
 - Discussion Topics
     - Localization 
         -   https://hackmd.io/Bcomd6hqTVOVh7oWjlo6kQ
     - Attachments 
         - https://hackmd.io/zPQHVHtpTiShXG64TYHyiQ
+    
+Recording: https://us02web.zoom.us/rec/share/sutwdvIBjGpUswprTqvSDE_xKg9gcS2nT65KrxHrxzauqJIqDvSzk69d6lJZv7wN.BaFxDrTw3Xx5uup4
 
+## Meeting - 25 Jan 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [George Aristy](george.aristy@securekey.com) (SecureKey)
+- [Steve McCown](smccown@anonyome.com) (Anonyome Labs)
+- [Oliver Terbu](oliver.terbu@mesh.xyz) (ConsenSys Mesh)
+- [Nader Helmy](nader.helmy@mattr.global) (MATTR)
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- DIF F2F
+
+- DID Use Cases
+    - Extended discussion: https://github.com/w3c/did-use-cases/pull/126
+    - New PR: https://github.com/w3c/did-use-cases/pull/139
+    - New PR Preview: https://pr-preview.s3.amazonaws.com/w3c/did-use-cases/pull/139.html#messaging
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/140
+- Discussion Topics
+    - DIDCom V2 Library - Rust
+        - https://github.com/jolocom/didcomm-rs
+        - https://www.youtube.com/watch?v=SaNvIorKQ9I
+        - 
+ - Walkthrough and Q&A
+
+    - Localization 
+        -   https://hackmd.io/Bcomd6hqTVOVh7oWjlo6kQ
+    - Attachments 
+        - https://hackmd.io/zPQHVHtpTiShXG64TYHyiQ
+    
+Recording: https://us02web.zoom.us/rec/share/kzc-Rsm_XOBvBMoSttIupf3MO8WmP-tEopTPh7WD9qykRWT1tvBGTrDMsMN8TCLq.qf1jJEwjs8A6xhwX
 
 ## Meeting - 18 Jan 2021 - (1500 ET)
  
