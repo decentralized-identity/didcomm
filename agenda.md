@@ -44,6 +44,115 @@ redecentralize.org
 
 </details>
 
+
+Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZRc1pxZz09
+
+
+## Meeting - 15 Mar 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [George Aristy](george.aristy@securekey.com) (SecureKey)
+- [Troy Ronda](troy.ronda@securekey.com) (SecureKey)
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- New Meeting Link Reminder
+
+- PRs
+    - [167](https://github.com/decentralized-identity/didcomm-messaging/pull/167) - accept property
+    - [161](https://github.com/decentralized-identity/didcomm-messaging/pull/161) - Attachments WIP
+        - Encrypted Attachments https://hackmd.io/jx8W0boDSzmLe2r6LKQU5w
+    - [171](https://github.com/decentralized-identity/didcomm-messaging/pull/171) - media type in envelope
+- Issues
+    - [165](https://github.com/decentralized-identity/didcomm-messaging/issues/165) - cty of JWM
+    - [162](https://github.com/decentralized-identity/didcomm-messaging/issues/162) - Rewrapping forwarded messages. - awaiting PR
+
+- Discussion Topics
+    - Peer DID Method 2 - https://github.com/decentralized-identity/peer-did-method-spec/pull/26
+    
+
+
+## Meeting - 08 Mar 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Oliver Terbu](oliver.terbu@mesh.xyz)
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- New Meeting Link
+
+- PRs
+    - [157](https://github.com/decentralized-identity/didcomm-messaging/pull/157) - JSON-LD Context (conflicts)
+    - [166](https://github.com/decentralized-identity/didcomm-messaging/pull/166) - Curve P-384
+    - [167](https://github.com/decentralized-identity/didcomm-messaging/pull/167) - accept property
+    - [161](https://github.com/decentralized-identity/didcomm-messaging/pull/161) - Attachments WIP
+- Issues
+    - [165](https://github.com/decentralized-identity/didcomm-messaging/issues/165) - cty of JWM
+    - [162](https://github.com/decentralized-identity/didcomm-messaging/issues/162) - Rewrapping forwarded messages. - awaiting PR
+
+- Discussion Topics
+    - Peer DID Method 2 - https://github.com/decentralized-identity/peer-did-method-spec/pull/26
+
+
+## Meeting - 01 Mar 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- 
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- PRs
+    - [157](https://github.com/decentralized-identity/didcomm-messaging/pull/157) - JSON-LD Context (conflicts)
+    - [163](https://github.com/decentralized-identity/didcomm-messaging/pull/163) - Thread language
+- Issues
+    - [165](https://github.com/decentralized-identity/didcomm-messaging/issues/165) - cty of JWM
+    - [162](https://github.com/decentralized-identity/didcomm-messaging/issues/162) - Rewrapping forwarded messages. - awaiting PR
+    - mimetype gap
+        - https://github.com/hyperledger/aries-rfcs/pull/587
+        - https://identity.foundation/didcomm-messaging/spec/#https
+        - https://identity.foundation/didcomm-messaging/spec/#didcomm-encrypted-message
+  
+- Discussion Topics
+
+
+
+Recording: - to be posted -
+
+## Meeting - 22 Feb 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Oliver Terbu](oliver.terbu@mesh.xyz)()
+- [Steve McCown](smccown@anonyome.com) (Anonyome Labs)
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- PRs
+    - [157](https://github.com/decentralized-identity/didcomm-messaging/pull/157) - JSON-LD Context
+    - [163](https://github.com/decentralized-identity/didcomm-messaging/pull/163) - Thread language
+- Issues
+    - [162](https://github.com/decentralized-identity/didcomm-messaging/issues/162) - Rewrapping forwarded messages. 
+    - [159](https://github.com/decentralized-identity/didcomm-messaging/issues/159) - Which keys are used for encryption.
+- Discussion Topics
+    - Peer DID Method 2: https://github.com/decentralized-identity/peer-did-method-spec/pull/26
+
+Recording: https://us02web.zoom.us/rec/share/H96XojOUKqDBpcDi8q826u0U-tJfhSTRChWbX6NA8mFBGF3zE6O1GIgSoMxCwm7j.8yDw3qSUL7xQvl5w
+
 ## Meeting - 15 Feb 2021 - (1500 ET)
  
 ### Attendees
