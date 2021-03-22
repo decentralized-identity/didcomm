@@ -47,6 +47,37 @@ redecentralize.org
 
 Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZRc1pxZz09
 
+## Meeting - 22 Mar 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Oliver Terbu](oliver.terbu@mesh.xyz) ()
+- [Troy Ronda](troy.ronda@securekey.com) (SecureKey)
+- [Baha A-Shaaban](baha.shaabah@securekey.com) (SecureKey)
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- New Meeting Link Reminder
+
+- PRs
+    - [170](https://github.com/decentralized-identity/didcomm-messaging/pull/170) - Restructure to solve image display issues.
+    - [172](https://github.com/decentralized-identity/didcomm-messaging/pull/172) - Fix inconsistencies with to/next attributes in a forward message. 
+    - [171](https://github.com/decentralized-identity/didcomm-messaging/pull/171) - media type discussion
+    - [167](https://github.com/decentralized-identity/didcomm-messaging/pull/167) - accept property
+    - [161](https://github.com/decentralized-identity/didcomm-messaging/pull/161) - Attachments WIP
+        - Encrypted Attachments https://hackmd.io/jx8W0boDSzmLe2r6LKQU5w
+
+- Issues
+    - [165](https://github.com/decentralized-identity/didcomm-messaging/issues/165) - cty of JWM
+    - [162](https://github.com/decentralized-identity/didcomm-messaging/issues/162) - Rewrapping forwarded messages. - awaiting PR
+
+- Discussion Topics
+    - 
+    
+
 
 ## Meeting - 15 Mar 2021 - (1500 ET)
  
