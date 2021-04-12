@@ -47,6 +47,88 @@ redecentralize.org
 
 Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZRc1pxZz09
 
+## Meeting - 12 Apr 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Oliver Terbu](oliver.terbu@meshx.yz) (ConsenSys Mesh)
+- [Troy Ronda](troy.ronda@securekey.com) (SecureKey)
+- [Ivan Temchenko](ivan@jolocom.com) (Jolocom)
+- [Steve McCown](smccown@anonyome.com) (Anonyome Labs)
+
+### Agenda
+
+- Welcome / Introductions
+
+- PRs
+    - [177](https://github.com/decentralized-identity/didcomm-messaging/pull/177) - Profiles
+        - [Negotiation Topics](https://hackmd.io/p-ci0BZfQQirvNiN0poHHA)
+        - [181](https://github.com/decentralized-identity/didcomm-messaging/pull/181) - accept property with profiles
+    - [173](https://github.com/decentralized-identity/didcomm-messaging/pull/173) - accept property in service block
+    - [180](https://github.com/decentralized-identity/didcomm-messaging/pull/180) - Align service Type with Aries
+        - [179](https://github.com/decentralized-identity/didcomm-messaging/issues/179) - Issue with commentary
+    -  [172](https://github.com/decentralized-identity/didcomm-messaging/pull/172) - Fix inconsistencies with to/next attributes in a forward message. 
+
+    - [161](https://github.com/decentralized-identity/didcomm-messaging/pull/161) - Attachments WIP
+        - [174](https://github.com/decentralized-identity/didcomm-messaging/pull/174) - Encrypted Attachments
+
+
+- Discussion Topics
+    
+    - DIDComm RecipientKeys: Signing vs Encryption 
+    - KERI Event Logs
+    
+
+
+## Meeting - 05 Apr 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+
+### Agenda
+
+- Welcome / Introductions
+
+- PRs
+    - [172](https://github.com/decentralized-identity/didcomm-messaging/pull/172) - Fix inconsistencies with to/next attributes in a forward message. 
+    - [173](https://github.com/decentralized-identity/didcomm-messaging/pull/173) - accept property in service block
+    - [161](https://github.com/decentralized-identity/didcomm-messaging/pull/161) - Attachments WIP
+        - [174](https://github.com/decentralized-identity/didcomm-messaging/pull/174) - Actual PR
+
+
+- Discussion Topics
+    - [Negotiation Topics](https://hackmd.io/p-ci0BZfQQirvNiN0poHHA)
+    - DIDComm RecipientKeys: Signing vs Encryption 
+    
+
+
+## Meeting - 29 Mar 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Troy Ronda](troy.ronda@securekey.com) (SecureKey)
+
+### Agenda
+
+- Welcome / Introductions
+
+- New Meeting Link Reminder
+
+- PRs
+    - [172](https://github.com/decentralized-identity/didcomm-messaging/pull/172) - Fix inconsistencies with to/next attributes in a forward message. 
+    - [173](https://github.com/decentralized-identity/didcomm-messaging/pull/173) - accept property in service block
+    - [161](https://github.com/decentralized-identity/didcomm-messaging/pull/161) - Attachments WIP
+        - Encrypted Attachments https://hackmd.io/jx8W0boDSzmLe2r6LKQU5w
+        - [174](https://github.com/decentralized-identity/didcomm-messaging/pull/174) - Actual PR
+
+- Issues
+    - [162](https://github.com/decentralized-identity/didcomm-messaging/issues/162) - Rewrapping forwarded messages. - awaiting PR
+
+- Discussion Topics
+    - Aries / DIDComm V2
+    
+
+
 ## Meeting - 22 Mar 2021 - (1500 ET)
  
 ### Attendees
