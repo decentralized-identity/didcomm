@@ -17,10 +17,9 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 * Before your contribute - [**join DIF**](https://identity.foundation/join) and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!) 
 * Time: Every Monday, 15:00-16:00 ET
 * [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=dHVmZWYxaXBzY2ZnaWk1MGhqN2NsdjYxc21fMjAyMDExMDlUMjAwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
-* [Zoom room](https://us02web.zoom.us/j/81621403519?pwd=TXJqMWcvYjlQcjhJVzJ0b2FpSGU2UT09), Meeting ID: 816 2140 3519, Password: 049153
+* [Zoom room](https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZRc1pxZz09), Meeting ID: 816 2140 3519, Password: 049153
 </details>
 
- 
 
 #### Future topics: 
 
@@ -47,6 +46,67 @@ redecentralize.org
 
 Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZRc1pxZz09
 
+## Meeting - 26 Apr 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Troy Ronda](troy.ronda@securekey.com) (SecureKey)
+- [Kyle Den Hartog](kyle.denhartog@mattr.global)(MATTR)
+- [Oliver Terbu](oliver.terbu@mesh.xyz) (ConsenSys AG)
+- [Baha AbuShaaban](baha.shaaban@securekey.com) (SecureKey)
+- [Stephen Curran](swcurran@cloudcompass.ca) (Cloud Compass Computing Inc. / BC Gov)
+
+### Agenda
+
+- Welcome / Introductions
+
+- Discussion Topics
+    - IIW Happenings
+        - Jello Bowl Death Match
+    - ECDH-1PU vs everything else (chat related discussion)
+        - ECDH-ES
+        - Authenticated Encryption
+        - 
+        - Andrew's Idea: https://hackmd.io/gC4ItH4IQKS_at8P8RyQOQ?view
+    - KID/SKID Related Topics
+        - ESKID
+        - Encrypted Sender
+
+- PRs
+    - [185](https://github.com/decentralized-identity/didcomm-messaging/pull/185) - kid and skid headers
+    - [172](https://github.com/decentralized-identity/didcomm-messaging/pull/172) - Fix inconsistencies with to/next attributes in a forward message. 
+
+- Next Week
+    
+
+## Meeting - 19 Apr 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Oliver Terbu](oliver.terbu@mesh.xyz) ()
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- PRs
+    - [183](https://github.com/decentralized-identity/didcomm-messaging/pull/183) - OOB Accept
+    - [185](https://github.com/decentralized-identity/didcomm-messaging/pull/185) - kid and skid headers
+    -  Complexity vs re-encryption bloat
+        -  [182](https://github.com/decentralized-identity/didcomm-messaging/issues/182) - Discussion Issue
+        - [161](https://github.com/decentralized-identity/didcomm-messaging/pull/161) - Attachments WIP
+        - [174](https://github.com/decentralized-identity/didcomm-messaging/pull/174) - Encrypted Attachments
+    -  [172](https://github.com/decentralized-identity/didcomm-messaging/pull/172) - Fix inconsistencies with to/next attributes in a forward message. 
+
+- Discussion Topics
+    
+    - Issues
+    - DIDComm RecipientKeys: Signing vs Encryption 
+    - KERI Event Logs
+- Next Week
+    - SKID Related Topics (Tobias)
+
 ## Meeting - 12 Apr 2021 - (1500 ET)
  
 ### Attendees
@@ -68,7 +128,6 @@ Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZR
     - [180](https://github.com/decentralized-identity/didcomm-messaging/pull/180) - Align service Type with Aries
         - [179](https://github.com/decentralized-identity/didcomm-messaging/issues/179) - Issue with commentary
     -  [172](https://github.com/decentralized-identity/didcomm-messaging/pull/172) - Fix inconsistencies with to/next attributes in a forward message. 
-
     - [161](https://github.com/decentralized-identity/didcomm-messaging/pull/161) - Attachments WIP
         - [174](https://github.com/decentralized-identity/didcomm-messaging/pull/174) - Encrypted Attachments
 
