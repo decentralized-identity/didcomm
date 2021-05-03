@@ -46,6 +46,30 @@ redecentralize.org
 
 Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZRc1pxZz09
 
+## Meeting - 3 May 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- PRs
+    - [190](https://github.com/decentralized-identity/didcomm-messaging/pull/190) - restoring anoncrypt
+        - Needed note about value of authcrypt, and why you should not invent another way to authenticate messages (future PR)
+    - [185](https://github.com/decentralized-identity/didcomm-messaging/pull/185) - kid and skid headers
+        - keys vs key refs
+    - [172](https://github.com/decentralized-identity/didcomm-messaging/pull/172) - Fix inconsistencies with to/next attributes in a forward message. 
+    - [161](https://github.com/decentralized-identity/didcomm-messaging/pull/161) - Attachments
+
+- Discussion Topics
+    - Etherium Compatible Key Wrapping - Oliver
+
+- Next Week
+    
+
 ## Meeting - 26 Apr 2021 - (1500 ET)
  
 ### Attendees
