@@ -46,6 +46,72 @@ redecentralize.org
 
 Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZRc1pxZz09
 
+## Meeting - 24 May 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Troy Ronda](troy.ronda@securekey.com) (SecureKey)
+- [Steve McCown](smccown@anonyome.com) (Anonyome Labs)
+
+
+### Agenda
+
+- Welcome / Introductions
+    - US Memorial Day (will skip next monday)
+
+- Discussion Topics
+    - Keys by Value or By ID
+        - [191](https://github.com/decentralized-identity/didcomm-messaging/issues/191) Issue
+    - XChaCha / Ethereum Compatible Key Wrapping - Oliver
+    - Sender Key/ID Encryption
+        - Do we need to?
+        - How is that done?
+     - Blog Post (Juan)
+- PRs
+    - [195](https://github.com/decentralized-identity/didcomm-messaging/pull/195) - anoncrypt warning (updated)
+    - [185](https://github.com/decentralized-identity/didcomm-messaging/pull/185) - kid and skid headers
+        - keys vs key refs
+    - [172](https://github.com/decentralized-identity/didcomm-messaging/pull/172) - Fix inconsistencies with to/next attributes in a forward message. 
+    - [161](https://github.com/decentralized-identity/didcomm-messaging/pull/161) - Attachments
+
+
+
+- Next Week
+    
+
+
+## Meeting - 17 May 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Kyle Den Hartog](kyle.denhartog@mattr.global)
+- [Oliver Terbu](oliver.terbu@mesh.xyz)
+- [Steve McCown](smccown@anonyome.com)
+- [Troy Ronda](troy.ronda@securekey.com) (SecureKey)
+
+### Agenda
+
+- Welcome / Introductions
+
+- Discussion Topics
+    - Keys by Value or By ID
+        - [191](https://github.com/decentralized-identity/didcomm-messaging/issues/191) Issue
+    - XChaCha / Ethereum Compatible Key Wrapping - Oliver
+    - Sender Key/ID Encryption
+        - Do we need to?
+        - How is that done?
+- PRs
+    - [195](https://github.com/decentralized-identity/didcomm-messaging/pull/195) - anoncrypt warning
+    - [185](https://github.com/decentralized-identity/didcomm-messaging/pull/185) - kid and skid headers
+        - keys vs key refs
+    - [172](https://github.com/decentralized-identity/didcomm-messaging/pull/172) - Fix inconsistencies with to/next attributes in a forward message. 
+    - [161](https://github.com/decentralized-identity/didcomm-messaging/pull/161) - Attachments
+
+
+
+- Next Week
+    
+
 ## Meeting - 10 May 2021 - (1500 ET)
  
 ### Attendees
@@ -78,6 +144,7 @@ Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZR
 ### Attendees
 - [Sam Curren](telegramsam@gmail.com) ()
 - [Steve McCown](smccown@anonyome.com) ()
+- [Troy Ronda](troy.ronda@securekey.com) (SecureKey)
 
 
 ### Agenda
