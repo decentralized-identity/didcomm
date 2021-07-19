@@ -46,6 +46,109 @@ redecentralize.org
 
 Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZRc1pxZz09
 
+## Meeting - 19 July 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- PRs
+
+    - [225](https://github.com/decentralized-identity/didcomm-messaging/pull/225) - thid and pthid
+    - [227](https://github.com/decentralized-identity/didcomm-messaging/pull/227) - sender key protection
+    - 230-235 Daniel PRs
+
+- Discussion Topics
+    - Issue Triage
+        - pending close
+        - needs discussion
+        - pr needed
+
+
+- Tasks
+    - ...
+
+
+
+- Next Week
+
+
+
+## Meeting - 12 July 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Baha A Shaaban](baha.shaaban@securekey.com) (SecureKey)
+
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- PRs
+    - [198](https://github.com/decentralized-identity/didcomm-messaging/pull/198) - typ/cty language
+    - [209](https://github.com/decentralized-identity/didcomm-messaging/pull/209) - sequencing extension
+    - [212](https://github.com/decentralized-identity/didcomm-messaging/pull/212) - ECDH 1PU Draft 4
+    - [225](https://github.com/decentralized-identity/didcomm-messaging/pull/225) - thid and pthid
+
+- Discussion Topics
+    - SICPA Support
+        - Tracking Repo: https://github.com/sicpa-dlab/didcomm-gemini
+    - Issue Triage
+        - What is most important that we work on?
+
+
+- Tasks
+    - Issue Attention
+    - Fix rendering? - Sam
+    - Correct language around encrypted senders, language about what is exposed to who. - Andrew
+
+
+
+- Next Week
+
+
+
+## Meeting - 28 June 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com) ()
+- [Steve McCown](smccown@anonyome.com) (Anonyome Labs)
+
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- PRs
+    - [198](https://github.com/decentralized-identity/didcomm-messaging/pull/198) - typ/cty language
+    - [200](https://github.com/decentralized-identity/didcomm-messaging/pull/200) - threading
+    - [209](https://github.com/decentralized-identity/didcomm-messaging/pull/209) - sequencing extension
+    - [211](https://github.com/decentralized-identity/didcomm-messaging/pull/211) - attachment format attribute
+    - [212](https://github.com/decentralized-identity/didcomm-messaging/pull/212) - ECDH 1PU Draft 4
+
+- Discussion Topics
+     - DIDComm v2 library interface comparison (pack and unpack interface comparison)
+        - DIDComm-rs - Rust - Jolocom (who?) Ivan
+        - did-jwt/veramo - Typescript - Oliver
+        - Go - Securekey - Baha
+
+
+- Tasks
+    - Fix rendering? - Sam
+    - Correct language around encrypted senders, language about what is exposed to who. - Andrew
+
+
+
+- Next Week
+
+
 
 ## Meeting - 21 June 2021 - (1500 ET)
  
