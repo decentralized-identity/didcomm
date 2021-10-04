@@ -45,6 +45,161 @@ redecentralize.org
 
 Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZRc1pxZz09
 
+## Meeting - 4 October 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com)
+- 
+
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- Status Updates
+
+
+  * IIW Sessions
+      * Tour of DIDComm Libraries - Alex & Slava
+      * DIDComm and how it relates to other tech - Daniel
+      * Future of DIDComm -> IETF Movement
+      * DIDComm Protocols - Sam
+  
+  * didcomm.org update -> can be already used to register new protocols
+      * https://github.com/decentralized-identity/didcomm.org/pulls
+
+
+
+- Contributor List
+    - Need proper recoginition
+    - Call for author PRs by authors
+
+- PRs
+    - 
+
+- Key Negotiation
+    - [238](https://github.com/decentralized-identity/didcomm-messaging/issues/238) - Multiple keys of different types and Keys negotiation (by  ashcherbakov)
+    - [218](https://github.com/decentralized-identity/didcomm-messaging/issues/218) - Need info about multiple recipients (by Daniel H.) Already PR Needed?
+
+- Other Discussion Topics
+    - [220](https://github.com/decentralized-identity/didcomm-messaging/issues/220) - Differentiating different forms of DIDComm messages (by Kyle)
+    - [138](https://github.com/decentralized-identity/didcomm-messaging/issues/138) - foundation / core protocols (by Daniel H.)
+    - [250](https://github.com/decentralized-identity/didcomm-messaging/issues/250) - combining OOB and feature discovery (by Kyle)
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
+## Meeting - 27 September 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com)
+- [Oliver Terbu](oliver.terbu@mesh.xyz)
+- [Daniel Hardman](daniel.hardman@sicpa.com)
+- [Steve McCown](smccown@anonyome.com)
+- [Drummond Reed](drummond.reed@evernym.com)
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- Status Updates
+
+
+  * Volunteers for blog post ECDH-1PU - Done! Followup?
+
+  * IIW Sessions
+      * Tour of DIDComm Libraries - Alex & Slava
+      * DIDComm and how it relates to other tech - Daniel
+      * Future of DIDComm -> IETF Movement
+      * DIDComm Protocols - Sam
+  
+  * didcomm.org update -> can be already used to register new protocols
+      * https://github.com/decentralized-identity/didcomm.org/pullsZAZ
+
+
+
+- Contributor List
+    - Need proper recoginition
+    - Call for author PRs by authors
+
+- PRs
+    - [267](https://github.com/decentralized-identity/didcomm-messaging/pull/267) - ECDH-1PU article -> in progress, Chris to reach out to Daniel
+    - [277](https://github.com/decentralized-identity/didcomm-messaging/pull/277) - Clarifies purpose of to attribute -> ok to merge but conflicts
+    - [275](https://github.com/decentralized-identity/didcomm-messaging/pull/275) - body attribute required -> agreed to merge, but merge conflicts need to resolved
+    - [274](https://github.com/decentralized-identity/didcomm-messaging/pull/274) - Make from required -> agreed to merge, but merge conflicts need to resolved
+    - [270](https://github.com/decentralized-identity/didcomm-messaging/pull/270) - update the number of recipients keys in a JWE envelope -> merged
+    - [272](https://github.com/decentralized-identity/didcomm-messaging/pull/272) - Update trustping.md
+    - [268](https://github.com/decentralized-identity/didcomm-messaging/pull/268) - serviceendpoint no url or object
+
+- Key Negotiation
+    - [238](https://github.com/decentralized-identity/didcomm-messaging/issues/238) - Multiple keys of different types and Keys negotiation (by  ashcherbakov)
+    - [218](https://github.com/decentralized-identity/didcomm-messaging/issues/218) - Need info about multiple recipients (by Daniel H.) Already PR Needed?
+
+- Other Discussion Topics
+    - [220](https://github.com/decentralized-identity/didcomm-messaging/issues/220) - Differentiating different forms of DIDComm messages (by Kyle)
+    - [138](https://github.com/decentralized-identity/didcomm-messaging/issues/138) - foundation / core protocols (by Daniel H.)
+    - [250](https://github.com/decentralized-identity/didcomm-messaging/issues/250) - combining OOB and feature discovery (by Kyle)
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
+
+## Meeting - 20 September 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com)
+- 
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- Status Updates
+
+
+  * Volunteers for blog post ECDH-1PU (posted on nimbus blog) -> Baha (lead), Oliver, Chris (editorial). Timeframe: 2-3 weeks
+  
+  * didcomm.org update -> can be already used to register new protocols
+      * https://github.com/decentralized-identity/didcomm.org/pullsZAZ
+
+- Contributor List
+    - Need proper recoginition
+    - Call for author PRs by authors
+
+- PRs
+    - on GitHub
+    -
+
+- Key Negotiation
+    - [238](https://github.com/decentralized-identity/didcomm-messaging/issues/238) - Multiple keys of different types and Keys negotiation (by  ashcherbakov)
+    - [218](https://github.com/decentralized-identity/didcomm-messaging/issues/218) - Need info about multiple recipients (by Daniel H.) Already PR Needed?
+
+- Other Discussion Topics
+    - [220](https://github.com/decentralized-identity/didcomm-messaging/issues/220) - Differentiating different forms of DIDComm messages (by Kyle)
+    - [138](https://github.com/decentralized-identity/didcomm-messaging/issues/138) - foundation / core protocols (by Daniel H.)
+    - [250](https://github.com/decentralized-identity/didcomm-messaging/issues/250) - combining OOB and feature discovery (by Kyle)
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
 ## Meeting - 13 September 2021 - (1500 ET)
  
 ### Attendees
