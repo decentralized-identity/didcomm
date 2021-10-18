@@ -45,11 +45,90 @@ redecentralize.org
 
 Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZRc1pxZz09
 
+## Meeting - 18 October 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com)
+- [Drummond Reed](drummond.reed@evernym.com)
+- [Kyle Den Hartog](kyle.denhartog@mattr.global)
+- [Steve McCown](smccown@anonyome.com)
+
+### Agenda
+
+- Welcome / Introductions
+
+- Status Updates
+
+  * Potential DIDComm Users Group
+
+  * IIW Sessions Review
+      * Tour of DIDComm Libraries - Alex & Slava
+      * DIDComm Mythconceptions - Daniel
+      * Future of DIDComm -> IETF Movement (didn't happen)
+      * DIDComm Protocols - Sam
+      * Moving medical data over DIDComm - community member
+      * P2PLib & DIDComm - Oliver 
+  
+- Sam mentioned that DIDComm V3 could specify how to start a "cryptographic" session that could be synchronous and very efficient.
+
+- There is a general sense that the next version of DIDComm will be at IETF. But DIF can still remain the home of the DIDComm User's Group. The User's Group can become the focus for implementation help, maintain didcomm.org, and work on the Implementer's Guide. 
+
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+
+
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
+
 ## Meeting - 4 October 2021 - (1500 ET)
  
 ### Attendees
 - [Sam Curren](telegramsam@gmail.com)
+- [Oliver Terbu](oliver.terbu@mesh.xyz)
 - 
+
+
+
+### Agenda
+
+- Welcome / Introductions
+
+- Status Updates
+
+  * Potential DIDComm Users Group
+
+  * IIW Sessions
+      * Tour of DIDComm Libraries - Alex & Slava
+      * DIDComm Mythconceptions - Daniel
+      * Future of DIDComm -> IETF Movement
+      * DIDComm Protocols - Sam
+  
+
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+
+
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
+## Meeting - 4 October 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com)
+- [Oliver Terbu](oliver.terbu@mesh.xyz)
 
 
 
