@@ -4,7 +4,8 @@
 
 
 
-[**WG projects** ](https://github.com/decentralized-identity?q=wg-didcomm&type=&language=) | [ DIF page ](https://identity.foundation/working-groups/did-comm.html) | [Mailing list](https://lists.identity.foundation/g/didcomm-wg) | [**Old Meeting page**](https://docs.google.com/document/d/1BpTm5SmgfOJcEsXfizO0ZmH1r7imTJDGKudAZtYsm0M/edit)
+[**WG projects** ](https://github.com/decentralized-identity?q=wg-didcomm&type=&language=) | [ DIF page ](https://identity.foundation/working-groups/did-comm.html) | [Mailing list](https://lists.identity.foundation/g/didcomm-wg) | [**Old Meeting page**](https://docs.google.com/document/d/1BpTm5SmgfOJcEsXfizO0ZmH1r7imTJDGKudAZtYsm0M/edit) |
+[Agenda Archive](https://github.com/decentralized-identity/didcomm/tree/main/agenda-archive)
 
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large, disparate group experiencing a lot of churn._
 
@@ -44,6 +45,261 @@ redecentralize.org
 </details>
 
 Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZRc1pxZz09
+
+
+### Notice: Next Meeting is 10 January 2022
+
+## Meeting - 13 December 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- [Steve McCown](smccown@anonyome.com)
+- [Chris Kelly](chris@identity.foundation)
+- Andrew Whitehead
+
+### Agenda
+
+- Welcome / Introductions
+
+- CoChair - Oficially Steve.
+
+- Holiday meeting canceled: Dec 20, 27, and Jan 3
+  
+- Discussion
+    
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+    - https://github.com/decentralized-identity/didcomm-messaging/pull/316 - OOB Fix
+
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
+## Meeting - 6 December 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- [Steve McCown](smccown@anonyome.com)
+- [Chris Kelly](chris@identity.foundation)
+- [Drummond Reed](drummond.reed@evernym.com)
+- 
+
+### Agenda
+
+- Welcome / Introductions
+
+- CoChair
+
+- DIDComm User Group
+    - Discord: (coming soon)
+    - No objection from the TSC
+    - Announcement soon - schedule discovery
+    - Get signed up via the announcement.
+
+- Holiday meeting canceled: Dec 20, 27, and Jan 3
+  
+- Discussion
+    - DIDComm-js Repo Archive
+        - https://github.com/decentralized-identity/DIDComm-js
+    - DIDComm & Hub Discussion
+        Scope and Organization
+        - Horton video: https://www.youtube.com/watch?v=NAfjEnu6R2g
+        - https://www.usenix.org/legacy/event/hotsec07/tech/full_papers/miller/miller.pdf
+
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+    - [313](https://github.com/decentralized-identity/didcomm-messaging/pull/313) - Discover Features v2 
+    - [314](https://github.com/decentralized-identity/didcomm-messaging/pull/314) - From in OOB. 
+    - typ in wrong places? (Sam)
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
+
+## Meeting - 29 November 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- 
+- 
+
+### Agenda
+
+- Welcome / Introductions
+
+- Status Updates
+  * Room for a WG Chair here in the spec WG.
+  * DIDComm UG on Discord: https://discord.gg/byAmu6TY
+  * Potential DIDComm Users Group
+      * Proposal sent to Steering Committee
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+    - [313](https://github.com/decentralized-identity/didcomm-messaging/pull/313) - Discover Features v2 
+    - [314](https://github.com/decentralized-identity/didcomm-messaging/pull/314) - From in OOB. 
+    - typ in wrong places? (Sam)
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
+## Meeting - 22 November 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- 
+- 
+
+### Agenda
+
+- Welcome / Introductions
+
+- Status Updates
+  * DIDComm UG on Discord: https://discord.gg/byAmu6TY
+  * Potential DIDComm Users Group
+      * Proposal sent to Steering Committee
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+    - [312](https://github.com/decentralized-identity/didcomm-messaging/pull/312) - OOB web redirect 
+    - [313](https://github.com/decentralized-identity/didcomm-messaging/pull/313) - Discover Features v2 
+    - typ in wrong places? (Sam)
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
+## Meeting - 15 November 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- [Drummond Reed](drummond.reed@evernym.com)
+- 
+
+### Agenda
+
+- Welcome / Introductions
+
+- Status Updates
+
+  * Sharable video from Daniel Hardman about the potential of DIDComm: https://www.youtube.com/watch?v=ovhSWg_E_54
+  * Potential DIDComm Users Group
+      * Proposal sent to Steering Committee
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+    - [312](https://github.com/decentralized-identity/didcomm-messaging/pull/312) - OOB web redirect 
+    - [313](https://github.com/decentralized-identity/didcomm-messaging/pull/313) - Discover Features v2 
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
+## Meeting - 8 November 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- [Steve McCown](smccown@anonyome.com)
+
+### Agenda
+
+- Welcome / Introductions
+
+- Status Updates
+
+  * Potential DIDComm Users Group
+      * Proposal sent to Steering Committee
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+## Meeting - 1 November 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- 
+
+### Agenda
+
+- Welcome / Introductions
+
+- Status Updates
+
+  * Potential DIDComm Users Group
+      * Proposal sent to Steering Committee
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
+
+## Meeting - 25 October 2021 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](telegramsam@gmail.com)
+- [Steve McCown](smccown@anonyome.com)
+- [Brian Richter](brian@aviary.tech)
+
+### Agenda
+
+- Welcome / Introductions
+
+- Status Updates
+
+  * Potential DIDComm Users Group
+  * https://hackmd.io/UTIirjBXTSCDwhbfDK5CUQ
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+
+
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
 
 ## Meeting - 18 October 2021 - (1500 ET)
  
