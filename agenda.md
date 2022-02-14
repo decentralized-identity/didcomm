@@ -46,8 +46,187 @@ redecentralize.org
 
 Meeting Link: https://us02web.zoom.us/j/81013549769?pwd=eDVBM0hONTAra0ZqSVBuazZRc1pxZz09
 
+http://whenisgood.net/d8dkhgi
 
-### Notice: Next Meeting is 10 January 2022
+## Meeting - 14 February 2022 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- [Steve McCown](smccown@anonyome.com)
+- 
+
+### Agenda
+
+- Welcome / Introductions
+- Announcements
+    - DIF F2F (24 Feb) https://www.eventbrite.com/e/difcon-f2f-virtual-3-tickets-162786327287
+    - [Call for session ideas](https://forms.gle/boKDY113GBDMvvbW6)
+    - DIDComm UG?
+
+  
+- Discussion
+    - NIST algos https://github.com/decentralized-identity/didcomm-messaging/issues/213#issuecomment-1032215470
+    - ACKs https://github.com/decentralized-identity/didcomm-messaging/issues/147
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+    - 
+
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+## Meeting - 07 February 2022 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- [Steve McCown](smccown@anonyome.com)
+- [Gabe Cohen](gcohen@squareup.com)
+
+### Agenda
+
+- Welcome / Introductions
+- Announcements
+    - DIF F2F (24 Feb) https://www.eventbrite.com/e/difcon-f2f-virtual-3-tickets-162786327287
+    - [Call for session ideas](https://forms.gle/boKDY113GBDMvvbW6)
+    - Time Survey for new DIDComm Users Group: http://whenisgood.net/d8dkhgi
+
+  
+- Discussion
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+    - 
+
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+## Meeting - 31 January 2022 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- [Steve McCown](smccown@anonyome.com)
+- [Chris Kelly](chris@identity.foundation)
+
+### Agenda
+
+- Welcome / Introductions
+- Announcements
+    - DIF F2F (24 Feb) https://www.eventbrite.com/e/difcon-f2f-virtual-3-tickets-162786327287
+    - [Call for session ideas](https://forms.gle/boKDY113GBDMvvbW6)
+    - Time Survey for new DIDComm Users Group: http://whenisgood.net/d8dkhgi
+
+  
+- Discussion
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+    - 
+
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+## Meeting - 24 January 2022 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- [Drummond Reed](drummond.reed@evernym.com)
+- [Steve McCown](smccown@anonyome.com)
+- [Chris Kelly](chris@identity.foundation)
+
+### Agenda
+
+- Welcome / Introductions
+- Announcements
+    - DIF F2F (24 Feb) https://www.eventbrite.com/e/difcon-f2f-virtual-3-tickets-162786327287
+    - Call for content - https://docs.google.com/forms/d/1pwVEaITW1ehEjTVLTYo3DDBAgawW3zJtRsUT0MRKt3Y/ed
+    - Time Survey for new DIDComm Users Group: http://whenisgood.net/d8dkhgi
+
+
+  
+- Discussion
+    - TOIP Papers
+        - https://trustoverip.org/permalink/Introduction-to-ToIP-V2.0-2021-11-17.pdf
+        - https://trustoverip.org/permalink/Design-Principles-for-the-ToIP-Stack-V1.0-2022-11-17.pdf
+
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+    - 
+
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+## Meeting - 17 January 2022 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- 
+
+### Agenda
+
+- Welcome / Introductions
+  
+- Discussion
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+    - 
+
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
+
+## Meeting - 10 January 2022 - (1500 ET)
+ 
+### Attendees
+- [Sam Curren](sam@indicio.tech)
+- [Steve McCown](smccown@anonyome.com)
+- [Tomislav Markovski](tomislav@trinsic.id)
+- 
+
+### Agenda
+
+- Welcome / Introductions
+  
+- Discussion
+  
+- PRs
+    - https://github.com/decentralized-identity/didcomm-messaging/pulls
+    - 
+
+
+- Issue Triage
+    - [pending close](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aopen+is%3Aissue+label%3A%22pending+close%22)
+    - [needs discussion](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+discussion%22)
+
+- Tasks
+    - [PR Needed Issues](https://github.com/decentralized-identity/didcomm-messaging/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+Needed%22)
+
 
 ## Meeting - 13 December 2021 - (1500 ET)
  
